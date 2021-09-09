@@ -65,6 +65,6 @@ reconquistará a confia do seu querido paizinho, que saiu de casa para comprar M
 
 
 
-bot.run('ODc2OTIyOTEyNDY3MjIyNTc4.YRrIGg.kk_MAfOOZLfkodPYKasgw4GJb4Y')
+bot.run('token')
 
 
